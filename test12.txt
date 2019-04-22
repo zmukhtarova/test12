@@ -1,1 +1,5 @@
 Here is test 12, 123 test
+<<<<<<< HEAD
+=======
+qwree fsghfA
+>>>>>>> develop
